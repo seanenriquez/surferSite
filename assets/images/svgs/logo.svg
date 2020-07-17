@@ -1,0 +1,28 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="147px" height="470px" viewBox="0 0 147 470"
+	enable-background="new 0 0 147 470">
+	<g id="Layer_1">
+		<g>
+			<g>
+
+				<path fill="none" stroke="#39ADAD" stroke-width="8.3709" stroke-linecap="round"
+					stroke-linejoin="round" stroke-miterlimit="10" d="
+				M141.14,265.262c0-89.703-67.142-253.714-67.142-253.714S6.86,175.559,6.86,265.262c0,56.271,7.479,141.778,36.336,197.707
+				h61.613C133.665,407.04,141.14,321.533,141.14,265.262z" />
+			</g>
+
+			<path fill="none" stroke="#39ADAD" stroke-width="8.3709" stroke-linecap="round" stroke-linejoin="round"
+				stroke-miterlimit="10" d="
+			M115.158,129.25c0,0-7.54,107.037-53.079,84.625c-45.536-22.412-55.216,60.107-55.042,66.437" />
+
+			<path fill="none" stroke="#39ADAD" stroke-width="8.3709" stroke-linecap="round" stroke-linejoin="round"
+				stroke-miterlimit="10" d="
+			M130.638,187.726c0,0-23.02,107.037-68.559,84.625c-45.536-22.413-51.387,60.105-51.216,66.438" />
+
+			<line fill="none" stroke="#39ADAD" stroke-width="8.3709" stroke-linecap="round" stroke-linejoin="round"
+				stroke-miterlimit="10" x1="73.998" y1="338.789" x2="73.998" y2="462.969" />
+
+			<line fill="none" stroke="#39ADAD" stroke-width="8.3709" stroke-linecap="round" stroke-linejoin="round"
+				stroke-miterlimit="10" x1="73.998" y1="11.547" x2="73.998" y2="129.25" />
+		</g>
+	</g>
+</svg>
